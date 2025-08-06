@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
-import reactLogo from '/vite.svg'
 import './App.css'
 
 function App() {
@@ -12,7 +11,7 @@ function App() {
         <a href="https://vite.dev" target="_blank">
           <img src={reactLogo} className="logo" alt="Vite logo" />
         </a>
-        <a href="https://react.dev" target="_blank">
+        <a href="https://react.dev" target="_bgit add .lank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
